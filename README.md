@@ -59,4 +59,4 @@ MD Preparation → https://github.com/Sbolivar16/MD-Prep-Studio
 
 **Santiago Bolívar Ávila, Ph.D.**  
 *Ph.D. in Chemical Sciences (UNR) · M.Sc. in Pharmaceutical Sciences*  
-[ORCID](https://orcid.org/0000-0002-3772-7604) · [ResearchGate](https://www.researchgate.net/profile/Santiago-Bolivar-Avila) · [Portfolio](https://sbolivar16.github.io) · `sbolivar16@outlook.com`
+[ORCID](https://orcid.org/0000-0002-3772-7604) · [ResearchGate](https://www.researchgate.net/profile/Santiago-Bolivar-Avila) · [Portfolio](https://sbolivar16.github.io) · `sbolivaravila16@gmail.com`
